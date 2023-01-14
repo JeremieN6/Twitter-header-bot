@@ -1,7 +1,7 @@
 {
   "name": "twitter-banner",
   "version": "1.0.0",
-  "description": "",
+  "description": "![banner](images/banner.png)",
   "engines": {
     "node": ">=18.0.0"
   },
@@ -30,5 +30,13 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremieN6/Twitter-header-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeremieN6/Twitter-header-bot/issues"
+  },
+  "homepage": "https://github.com/JeremieN6/Twitter-header-bot#readme"
 }
